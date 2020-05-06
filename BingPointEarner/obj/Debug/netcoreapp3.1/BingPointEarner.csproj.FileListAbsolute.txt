@@ -1,0 +1,13 @@
+/home/r/Programming/C#/BingPointEarner/bin/Debug/netcoreapp3.1/BingPointEarner
+/home/r/Programming/C#/BingPointEarner/bin/Debug/netcoreapp3.1/BingPointEarner.deps.json
+/home/r/Programming/C#/BingPointEarner/bin/Debug/netcoreapp3.1/BingPointEarner.runtimeconfig.json
+/home/r/Programming/C#/BingPointEarner/bin/Debug/netcoreapp3.1/BingPointEarner.runtimeconfig.dev.json
+/home/r/Programming/C#/BingPointEarner/bin/Debug/netcoreapp3.1/BingPointEarner.dll
+/home/r/Programming/C#/BingPointEarner/bin/Debug/netcoreapp3.1/BingPointEarner.pdb
+/home/r/Programming/C#/BingPointEarner/obj/Debug/netcoreapp3.1/BingPointEarner.csprojAssemblyReference.cache
+/home/r/Programming/C#/BingPointEarner/obj/Debug/netcoreapp3.1/BingPointEarner.csproj.CoreCompileInputs.cache
+/home/r/Programming/C#/BingPointEarner/obj/Debug/netcoreapp3.1/BingPointEarner.AssemblyInfoInputs.cache
+/home/r/Programming/C#/BingPointEarner/obj/Debug/netcoreapp3.1/BingPointEarner.AssemblyInfo.cs
+/home/r/Programming/C#/BingPointEarner/obj/Debug/netcoreapp3.1/BingPointEarner.dll
+/home/r/Programming/C#/BingPointEarner/obj/Debug/netcoreapp3.1/BingPointEarner.pdb
+/home/r/Programming/C#/BingPointEarner/obj/Debug/netcoreapp3.1/BingPointEarner.genruntimeconfig.cache
