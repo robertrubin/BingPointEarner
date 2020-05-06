@@ -1,4 +1,4 @@
-# BingPointEarner
+# BingPointEarner Beta 0.1v
 Makes you Bing points!
 
 ## Requirements
