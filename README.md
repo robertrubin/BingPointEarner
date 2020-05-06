@@ -7,7 +7,10 @@ Makes you Bing points!
 
 ## Tutorial
 Run the executable in the published folder and it will pick random words from wordslist.txt
-to then use those words as search queries in the bing search engine. 
+to then use those words as search queries in the Bing search engine. 
 
-## Note
+## Notice
 I compiled the program with Ubuntu 20.04 LTS
+
+## Warning
+I do not condone nor promote utilizing this program for profit. 
